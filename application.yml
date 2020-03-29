@@ -1,0 +1,10 @@
+app:
+  name: My app
+  description: welcome to ${app.name}
+my:
+  greeting: hello world thanga
+  list.value: one,two,three
+db:
+  connection: "{connectionString: 'sdsfdf',userName: 'fweew',password: 'sds'}"
+  port: 9090
+  host: 344.97
