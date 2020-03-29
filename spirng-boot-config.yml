@@ -1,0 +1,10 @@
+app:
+  name: dggdg
+  description: dgdfg ${app.name} updated
+my:
+  greeting: hdgdfgdgd
+  list.value: gdfgdfgd
+db:
+  connection: "{connectionString: 'dgfdgd',userName: 'dgdgd',password: 'dgdf'}"
+  port: 9090
+  host: 344.97
