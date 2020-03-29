@@ -2,9 +2,9 @@ app:
   name: dggdg
   description: dgdfg ${app.name} updated
 my:
-  greeting: hdgdfgdgd
+  greeting: welcome git refresh
   list.value: gdfgdfgd
 db:
-  connection: "{connectionString: 'test',userName: 'dgdgd',password: 'dgdf'}"
+  connection: "{connectionString: 'welcome git refresh',userName: 'dgdgd',password: 'dgdf'}"
   port: 9090
   host: 344.97
