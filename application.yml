@@ -3,7 +3,7 @@ app:
   description: welcome to ${app.name} updated
 my:
   greeting: hello world thanga updated
-  list.value: one,two,three updated
+  list.value: one,two,three updated test
 db:
   connection: "{connectionString: 'sdsfdf',userName: 'updated',password: 'updated'}"
   port: 9090
